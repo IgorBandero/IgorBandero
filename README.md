@@ -62,6 +62,7 @@ Taking a step further, I embarked on a Computer Science degree at the university
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
+
 **Thank you for stopping by! 😊**
 
 
