@@ -16,8 +16,8 @@ Taking a step further, I embarked on a Computer Science degree at the university
 
 ## 🌐 Technologies
 
+#### Front-end
 <div  style="display: flex" >
-  #### Front-end
   <div style="display: flex" >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,7 +37,6 @@ Taking a step further, I embarked on a Computer Science degree at the university
 <div style="display: flex" >
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </div>
 
 #### ORM
